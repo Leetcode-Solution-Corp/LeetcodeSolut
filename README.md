@@ -1,2 +1,2 @@
 # LeetcodeSolut
-Daily Leetcode solutions
+Daily (maybe) Leetcode solutions
